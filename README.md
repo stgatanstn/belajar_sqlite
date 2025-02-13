@@ -1,5 +1,7 @@
 # belajar_sqlite
-![foto](lib/images/img 1.jpg)
+![Deskripsi](lib/images/img1.jpg)
+![Deskripsi](lib/images/img2.jpg)
+![Deskripsi](lib/images/img3.jpg)
 
 A new Flutter project.
 
