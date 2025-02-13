@@ -1,5 +1,5 @@
 # belajar_sqlite
-![Deskripsi](images/img1.jpg)
+![Deskripsi](lib/images/img1.jpg)
 ![Deskripsi](lib/images/img2.jpg)
 ![Deskripsi](lib/images/img3.jpg)
 
